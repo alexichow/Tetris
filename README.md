@@ -8,7 +8,7 @@ The classic game of Tetris in C++ and GLUT
 
 ## Installation 
 
-Installing GLUT after downloading files (Windows):
+Installing GLUT after downloading files (Windows):  
 Place `glut.h` in: ‘C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\GL\’  
 Place `glut32.lib` in: ‘C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\’  
 Place `glut32.dll`: ‘C:\Windows\System32\’
